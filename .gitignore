@@ -1,0 +1,18 @@
+# Compilés
+*.exe
+*.o
+*.obj
+*.out
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Exports de l'application
+*.png
+*.txt
+
+# Logs
+*.log
